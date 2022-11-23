@@ -31,7 +31,7 @@ const Routes = () => {
     <DndProvider backend={HTML5Backend}>
       <Layout>
         <SEO title="Medusa" />
-        <Router basepath="b" className="h-full">
+        <Router basepath="a" className="h-full">
           <Oauth path="oauth/:app_name" />
           <ProductsRoute path="products/*" />
           <Collections path="collections/*" />
