@@ -27,7 +27,7 @@
     "@segment/analytics-next": "^1.43.0",
     "@svgr/webpack": "^5.4.0",
     "@tailwindcss/line-clamp": "^0.3.1",
-    "axios": "^0.24.0",
+    "axios": "^1.6.0",
     "clsx": "^1.1.1",
     "confetti-js": "^0.0.18",
     "copy-to-clipboard": "^3.3.1",
